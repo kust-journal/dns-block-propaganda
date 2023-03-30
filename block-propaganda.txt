@@ -1,3 +1,4 @@
 ! Title: Block-propaganda
 
 0.0.0.0 smotrim.ru
+0.0.0.0 lenta.ru
